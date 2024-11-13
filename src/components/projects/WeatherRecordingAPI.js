@@ -34,10 +34,10 @@ const WeatherRecordingAPI = () => {
                 <svg>
                   <rect x="0" y="0" fill="none" width="100%" height="100%" />
                 </svg>
-                This Project
+                In Development..
               </button>
             </div>
-            <div className="col-md-6">
+            {/* <div className="col-md-6">
               <a
                 href="/"
                 target="_blank"
@@ -49,7 +49,7 @@ const WeatherRecordingAPI = () => {
                 </svg>
                 View Code
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="col-md-6">

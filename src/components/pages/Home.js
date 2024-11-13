@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import React, { useState} from "react";
 // import resume from "../../resume/CV_Amo_Chen.pdf";
 import { Modal } from "react-bootstrap";
 
@@ -7,8 +7,8 @@ const Home = () => {
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
-  const [copySuccess, setCopySuccess] = useState("");
-  const textAreaRef = useRef(null);
+  // const [copySuccess, setCopySuccess] = useState("");
+  // const textAreaRef = useRef(null);
 
   // function copyToClipboard(e) {
   //   textAreaRef.current.select();
@@ -84,7 +84,7 @@ const Home = () => {
               </form>
             </Modal.Body>
             <Modal.Footer className="py-1">
-              {copySuccess}
+              {/* {copySuccess} */}
               {/* <Button
                 variant='secondary'
                 onClick={(handleClose, copyToClipboard)}

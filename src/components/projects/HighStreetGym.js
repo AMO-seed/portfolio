@@ -24,7 +24,7 @@ const HighStreetGym = () => {
           <div className="row mt-2 mb-5">
             <div className="col-md-6">
               <a
-                href="https://jiangren.com.au/"
+                href="http://13.239.112.124/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-project"
@@ -35,7 +35,7 @@ const HighStreetGym = () => {
                 View Project
               </a>
             </div>
-            <div className="col-md-6">
+            {/* <div className="col-md-6">
               <button
                 href=""
                 target="_blank"
@@ -48,7 +48,7 @@ const HighStreetGym = () => {
                 </svg>
                 Source Private
               </button>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="col-md-6">

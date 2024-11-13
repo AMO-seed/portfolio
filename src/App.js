@@ -4,7 +4,7 @@ import Navbar from "./components/layout/Navbar";
 import Home from "./components/pages/Home";
 import Projects from "./components/pages/Projects";
 import Skills from "./components/pages/Skills";
-import Contact from "./components/pages/Contact";
+// import Contact from "./components/pages/Contact";
 
 import "./styles/css/bootstrap.css";
 import "./styles/css/style.css";

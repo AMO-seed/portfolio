@@ -25,9 +25,9 @@ const Navbar = () => {
   const handleSkillsActive = () => setSkillsColor("nav-link text-primary");
   const handleSkillsInactive = () => setSkillsColor("nav-link text-light");
 
-  const [contactColor, setContactColor] = useState("nav-link text-light");
-  const handleContactActive = () => setContactColor("nav-link text-primary");
-  const handleContactInactive = () => setContactColor("nav-link text-light");
+  // const [contactColor, setContactColor] = useState("nav-link text-light");
+  // const handleContactActive = () => setContactColor("nav-link text-primary");
+  // const handleContactInactive = () => setContactColor("nav-link text-light");
 
   return (
     <nav className={navColor}>
