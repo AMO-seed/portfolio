@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Amo2023/portfolio.git/static/css/main.d80a48ce.chunk.css",
-    "main.js": "/Amo2023/portfolio.git/static/js/main.3446d854.chunk.js",
-    "main.js.map": "/Amo2023/portfolio.git/static/js/main.3446d854.chunk.js.map",
-    "runtime-main.js": "/Amo2023/portfolio.git/static/js/runtime-main.c966a9a0.js",
-    "runtime-main.js.map": "/Amo2023/portfolio.git/static/js/runtime-main.c966a9a0.js.map",
-    "static/js/2.e7146c92.chunk.js": "/Amo2023/portfolio.git/static/js/2.e7146c92.chunk.js",
-    "static/js/2.e7146c92.chunk.js.map": "/Amo2023/portfolio.git/static/js/2.e7146c92.chunk.js.map",
-    "index.html": "/Amo2023/portfolio.git/index.html",
-    "precache-manifest.96181c44816d702580ae0f1410b26b7e.js": "/Amo2023/portfolio.git/precache-manifest.96181c44816d702580ae0f1410b26b7e.js",
-    "service-worker.js": "/Amo2023/portfolio.git/service-worker.js",
-    "static/css/main.d80a48ce.chunk.css.map": "/Amo2023/portfolio.git/static/css/main.d80a48ce.chunk.css.map",
-    "static/media/HighStreetGym.png": "/Amo2023/portfolio.git/static/media/HighStreetGym.295c57db.png",
-    "static/media/style.css": "/Amo2023/portfolio.git/static/media/bridge_600.c81fc847.jpg",
-    "static/media/weatherRecordingAPI.png": "/Amo2023/portfolio.git/static/media/weatherRecordingAPI.40e108cd.png"
+    "main.css": "/Amo2023/portfolio/static/css/main.79330d01.chunk.css",
+    "main.js": "/Amo2023/portfolio/static/js/main.10945282.chunk.js",
+    "main.js.map": "/Amo2023/portfolio/static/js/main.10945282.chunk.js.map",
+    "runtime-main.js": "/Amo2023/portfolio/static/js/runtime-main.8ac3b217.js",
+    "runtime-main.js.map": "/Amo2023/portfolio/static/js/runtime-main.8ac3b217.js.map",
+    "static/js/2.e7146c92.chunk.js": "/Amo2023/portfolio/static/js/2.e7146c92.chunk.js",
+    "static/js/2.e7146c92.chunk.js.map": "/Amo2023/portfolio/static/js/2.e7146c92.chunk.js.map",
+    "index.html": "/Amo2023/portfolio/index.html",
+    "precache-manifest.b4d47911d56aea1199a9cd6fb6ecea2b.js": "/Amo2023/portfolio/precache-manifest.b4d47911d56aea1199a9cd6fb6ecea2b.js",
+    "service-worker.js": "/Amo2023/portfolio/service-worker.js",
+    "static/css/main.79330d01.chunk.css.map": "/Amo2023/portfolio/static/css/main.79330d01.chunk.css.map",
+    "static/media/HighStreetGym.png": "/Amo2023/portfolio/static/media/HighStreetGym.295c57db.png",
+    "static/media/style.css": "/Amo2023/portfolio/static/media/bridge_600.c81fc847.jpg",
+    "static/media/weatherRecordingAPI.png": "/Amo2023/portfolio/static/media/weatherRecordingAPI.40e108cd.png"
   }
 }
