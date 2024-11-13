@@ -23,7 +23,7 @@ const WeatherRecordingAPI = () => {
           </Tilt>
           {/* Buttoms */}
           <div className="row mt-2 mb-5">
-            <div className="col-md-6">
+            {/* <div className="col-md-6">
               <button
                 href="/"
                 target="_blank"
@@ -36,7 +36,7 @@ const WeatherRecordingAPI = () => {
                 </svg>
                 In Development..
               </button>
-            </div>
+            </div> */}
             {/* <div className="col-md-6">
               <a
                 href="/"

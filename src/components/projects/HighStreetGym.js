@@ -22,7 +22,7 @@ const HighStreetGym = () => {
           </Tilt>
           {/* Buttoms */}
           <div className="row mt-2 mb-5">
-            <div className="col-md-6">
+            {/* <div className="col-md-6">
               <a
                 href="http://13.239.112.124/"
                 target="_blank"
@@ -34,7 +34,7 @@ const HighStreetGym = () => {
                 </svg>
                 View Project
               </a>
-            </div>
+            </div> */}
             {/* <div className="col-md-6">
               <button
                 href=""
